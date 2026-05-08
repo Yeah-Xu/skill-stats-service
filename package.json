@@ -1,5 +1,4 @@
 {
   "name": "skill-stats-service",
-  "version": "1.0.0",
-  "description": "中心化Skill统计服务"
+  "version": "1.0.0"
 }
